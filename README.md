@@ -9,4 +9,4 @@ This is a simple practice API deployed on **Render**. They shut it down with ina
 ## Endpoints
 
 - GET `/` -> Returns welcoming message
-- GET `/Author` -> You know a little bit more about me
+- GET `/author` -> You know a little bit more about me
